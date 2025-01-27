@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jainh/OneDrive/Pictures/Desktop/mlproject/mlruns/0/ce05d4e6e88b479c9ab1718b39a48442/artifacts
+end_time: 1738002074157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce05d4e6e88b479c9ab1718b39a48442
+run_name: adaptable-calf-618
+run_uuid: ce05d4e6e88b479c9ab1718b39a48442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738002060382
+status: 3
+tags: []
+user_id: root
